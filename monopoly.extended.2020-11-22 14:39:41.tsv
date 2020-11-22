@@ -1,0 +1,27 @@
+order	color	name	rent	lat	lng
+1	brown	Old Kent Road	£60	51.4855634	-0.0703596
+2	brown	Whitechapel Road	£60	51.5183532	-0.0630633
+3	black	King's Cross station	£200	51.5320013	-0.1233234
+4	lightblue	"The Angel, Islington"	£100	51.5346761	-0.1042905
+5	lightblue	Euston Road	£100	51.52677689999999	-0.1324905
+6	lightblue	Pentonville Road	£120	51.5313666	-0.1143385
+7	pink	Pall Mall	£140	51.5066838	-0.1340046
+8	pink	Whitehall	£140	51.5049822	-0.1265712
+9	pink	Northumberland Avenue	£160	51.5069825	-0.1249472
+10	black	Marylebone station	£200	51.5227559	-0.1627155
+11	orange	Bow Street	£180	51.5133517	-0.1220818
+12	orange	Great Marlborough Street	£180	51.5142511	-0.1394204
+13	orange	Vine Street	£200	51.5094857	-0.1371711
+14	red	Strand	£220	51.5112079	-0.1193447
+15	red	Fleet Street	£220	51.5142243	-0.1079636
+16	red	Trafalgar Square	£240	51.508039	-0.128069
+17	black	Fenchurch Street station	£200	51.5117156	-0.0790676
+18	yellow	Leicester Square	£260	51.510676	-0.1306432
+19	yellow	Coventry Street	£260	51.51012799999999	-0.133293
+20	yellow	Piccadilly	£280	51.5067326	-0.1428696
+21	green	Regent Street	£300	51.5131276	-0.1405909
+22	green	Oxford Street	£300	51.5152543	-0.1420395
+23	green	Bond Street	£320	51.5503198	0.004128
+24	black	Liverpool Street station	£200	51.51875159999999	-0.0814374
+25	darkblue	Park Lane	£350	51.50833309999999	-0.1547189
+26	darkblue	Mayfair	£400	51.5116269	-0.147806
